@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{80C96881-55CD-40C0-A3D6-E12DBFF79022}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80C96881-55CD-40C0-A3D6-E12DBFF79022}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F0D4DFD-BAA3-42B0-A70C-4FD88835DBED}|CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|c:\\users\\mathe\\estudos\\forma\u00E7\u00E3o c-sharp\\cashflow\\cashflow.infrastructure\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F0D4DFD-BAA3-42B0-A70C-4FD88835DBED}|CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj|solutionrelative:cashflow.infrastructure\\dataaccess\\repositories\\expensesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,34 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\src\\CashFlow.Api\\Program.cs",
-              "RelativeToolTip": "src\\CashFlow.Api\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T16:30:24.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExpensesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
-              "RelativeDocumentMoniker": "CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
-              "ToolTip": "C:\\Users\\mathe\\ESTUDOS\\Forma\u00E7\u00E3o C-Sharp\\CashFlow\\CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
-              "RelativeToolTip": "CashFlow.Infrastructure\\DataAccess\\Repositories\\ExpensesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T16:25:18.408Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
